@@ -1,2 +1,2 @@
-# my_projects
-publish some of my projects here
+# project
+https://github.com/mieltn/my_projects
